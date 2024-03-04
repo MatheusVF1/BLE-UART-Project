@@ -8,4 +8,4 @@ Após entrar no terminal do renode basta digitar o seguinte comando:
 
 s @scripts/single-node/nrf52840-ble-zephyr.resc
 
-Certifique-se que o arquivo nrf52840-ble-zephyr.resc esteja dentro da pasta scripts do renode
+Certifique-se que o arquivo 'nrf52840-ble-zephyr.resc' esteja dentro da pasta scripts do renode.
