@@ -4,5 +4,8 @@ Projeto BLE-UART de Sistemas Embarcados solicitado pelo professor Erick Barboza 
 Alunos: Matheus Vieira Faria, Rangel Gonçalves, Daniel Pessoa Máximo e Ana Maria Cardoso Wagner.
 
 # Comando para ativação no Renode
-Após entrar no terminal do renode basta digitar o comando
-s @scripts/single-node/
+Após entrar no terminal do renode basta digitar o seguinte comando:
+
+s @scripts/single-node/nrf52840-ble-zephyr.resc
+
+Certifique-se que o arquivo nrf52840-ble-zephyr.resc esteja dentro da pasta scripts do renode
