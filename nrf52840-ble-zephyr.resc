@@ -12,8 +12,8 @@ using sysbus
 
 # Lines below declare binary files for Zephyr BLE devices. One for central device and one for peripheral device.
 # Binaries used here are defaults and can be replaced by changing variables below before running this script.
-$central_bin?=@C:\Users\range\Documents\PlatformIO\Projects\BleC\.pio\build\nrf52840_dk\firmware.elf
-$peripheral_bin?=@C:\Users\range\Documents\PlatformIO\Projects\bleP\.pio\build\nrf52840_dk\firmware.elf
+$central_bin?=@C:\Users\mathe\Documents\PlatformIO\Projects\BleC\.pio\build\nrf52840_dk\firmware.elf
+$peripheral_bin?=@C:\Users\mathe\Documents\PlatformIO\Projects\bleP\.pio\build\nrf52840_dk\firmware.elf
 
 # Create a wireless medium for communication.
 emulation CreateBLEMedium "wireless"
